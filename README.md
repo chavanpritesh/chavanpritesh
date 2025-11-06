@@ -20,17 +20,7 @@ I am Computer Engineering, specialization in Cyber Security. I build and operate
 * Basic incident response, root cause analysis, mitigation
 * Security fundamentals, IDS/IPS concepts, DDOS detection (home lab project)
 
-## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original.svg" alt="splunk" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="kali" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="nmap" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="vmware" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36" />
-</p>
 
 ## 🌱 Currently Exploring
 
