@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pritesh Chavan
 
-### SOC Analyst, Cybersecurity Enthusiast 🛡️
+### Cyber Security Analyst 🛡️
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chavanpritesh&label=Profile%20views&color=0e75b6&style=flat" alt="pritesh" />
