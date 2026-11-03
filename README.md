@@ -1,47 +1,78 @@
-# Hi 👋, I'm Pritesh Chavan
-
-### Cyber Security Analyst 🛡️
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chavanpritesh&label=Profile%20views&color=0e75b6&style=flat" alt="pritesh" />
-</p>
-
-## 🌟 About Me
-
-I am Computer Engineering, specialization in Cyber Security. I build and operate SOC style home labs to practice threat detection, incident triage, and response. I enjoy hands on work with SIEMs, network scanning, and defensive automation, while learning how to bridge security and engineering.
-
-## 🔍 Core Expertise
-
-* SOC monitoring, alert triage, incident investigation
-* SIEM tooling and Splunk for logs and dashboards
-* Network scanning and reconnaissance, Nmap
-* Pen testing basics with Kali Linux, lab setup in VMware
-* Windows Server and Linux server troubleshooting
-* Basic incident response, root cause analysis, mitigation
-* Security fundamentals, IDS/IPS concepts, DDOS detection (home lab project)
-
-
-
-## 🌱 Currently Exploring
-
-* Advanced SOC playbooks, alert tuning, and automation
-* Threat hunting workflows and detection engineering
-* Splunk advanced searches and dashboarding
-* Cloud security basics, logging and monitoring for AWS
-
-## 💞️ I'm Passionate About
-
-* Turning noisy alerts into actionable investigations
-* Designing small SOC labs to simulate adversary activity
-* Learning practical detection techniques that scale
-
-
-
-## 📬 Connect with Me
+<h1 align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <!-- replace placeholders below with your actual links if you want them live -->
-  <a href="https://www.linkedin.com/in/pritest-chavan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <img src="https://shields.io" alt="Clearance" />
+  <img src="https://shields.io" alt="Focus" />
+  <img src="https://komarev.com" alt="System Access Profile Views" />
 </p>
 
+---
 
+## ⚡ `$ whoami`
+
+```text
+[+] Name       : Pritesh Chavan
+[+] Degree     : Computer Engineering (Spec. Cyber Security)
+[+] Philosophy : Building stable defenses through automation.
+[+] Objective  : Operating SOC home labs to map out threat detection architectures.
+```
+
+I build and orchestrate SOC-style sandbox environments to run automated network detection rules, triage security events, and write defensive micro-tools. I like bridging engineering pipelines with automated threat intel telemetry.
+
+---
+
+## 🛠️ Security Stack & Tooling
+
+<p align="left">
+  <!-- OS & Hypervisors -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <!-- Tools -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### 📡 Operational Matrix
+
+* **Security Operations (SOC):** Log analytics, baseline threshold alert tuning, live dashboard analytics.
+* **Network Defense & Auditing:** Structural scanning (Nmap), payload packet analysis, packet-level traffic filtering.
+* **Infrastructure Engineering:** Systems deployment on Windows/Linux environments, baseline configurations.
+* **Defensive Automation:** Writing automated script infrastructure to audit public edge subdomains and active asset states.
+
+---
+
+## 🚀 Active Development & Telemetry
+
+```text
+⚡ [Current Task] : Developing optimized, high-speed multi-threaded infrastructure scanners.
+🌱 [Researching]  : Cloud trail logging systems, AWS infrastructure monitoring arrays.
+🔥 [Core Focus]  : Eliminating false positives from noise-heavy threat detection triggers.
+```
+
+---
+
+## 📊 Live Metrics & Target Grid
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📬 Communications & Handshakes
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pritest-chavan" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Connection" />
+  </a>
+</p>
+
+<p align="center">
+  <code>SECURE_SESSION_END // GOOD_HUNTING</code>
+</p>
