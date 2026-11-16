@@ -53,33 +53,6 @@ Cyber Security specialized Computer Engineering graduate with **9 months of ente
 
 ---
 
-### 💼 Experience & Enterprise Background
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🏢 Jr Data and Systems Operations Technician</h4>
-      <p><strong>Company3 Method India Pvt Ltd</strong> • <em>Feb 2026 – Nov 2026 | Pune, India</em></p>
-      <ul>
-        <li>Maintained secure data sharing & production Linux/cloud server environments supporting delivery for <strong>Netflix, Amazon, Marvel Studios, and IMAX</strong>.</li>
-        <li>Conducted <strong>MD5 cryptographic verification</strong> checks to ensure asset integrity, authenticity, and anti-tampering.</li>
-        <li>Engineered <strong>Python automation scripts</strong>, decreasing turnaround time by <strong>&gt;30%</strong>.</li>
-        <li>Triaged incident requests via <strong>Jira & ClickUp</strong> under strict enterprise security SLAs.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h4>🛡️ Cyber Security Intern</h4>
-      <p><strong>NIIT Foundation</strong> • <em>Jul 2025 – Aug 2025 | Remote, India</em></p>
-      <ul>
-        <li>Triaged simulated security alerts and scrutinized network log events to identify unauthorized access attempts.</li>
-        <li>Designed, configured, and troubleshot segmented enterprise network topologies and Access Control Lists (ACLs) using <strong>Cisco Packet Tracer</strong>.</li>
-        <li>Applied standard incident response methodologies to detect abnormal traffic patterns.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🛠️ Technical Arsenal & Security Stack
 
